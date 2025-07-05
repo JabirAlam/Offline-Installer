@@ -21,6 +21,8 @@ Step 4.
 
 then open balena etcher setup, install it, then flash the .raw image in the folder i told you to extract earlier, to your USB drive, DO NOT DO IT ON YOUR SYSTEM DRIVE!!
 
+then unplug the USB drive, and replug the USB drive!
+
 then done! good luck hackintoshing!
 
 
