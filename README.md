@@ -15,7 +15,7 @@ wait for it to complete. after its completed, extract the file (recommended with
 
 Step 3.
 
-then download Balena Etcher. https://github.com/balena-io/etcher/releases/download/v1.18.11/balenaEtcher-Setup-1.18.11.exe.
+then download Balena Etcher. especially this version because on other versions, you cannot flash the image for some reason.. https://github.com/balena-io/etcher/releases/download/v1.18.11/balenaEtcher-Setup-1.18.11.exe.
 
 Step 4.
 
