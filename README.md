@@ -25,4 +25,6 @@ then unplug the USB drive, and replug the USB drive!
 
 then done! good luck hackintoshing!
 
+If you don't have a problematic drive like the PM981a, that i had previously, you dont need Offline Installers, but if your internet is slow, then you can use it..
+
 
