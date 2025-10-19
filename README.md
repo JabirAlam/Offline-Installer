@@ -7,7 +7,7 @@ The process described in this document could cause irreversible damage to your l
 
 Step 1.
 
-first, download this file. https://drive.usercontent.google.com/download?id=1su1aht3HdKle8KhFdh8Hgis8iVdCS0Av&export=download&authuser=0.
+first, download this file (the installer image of Catalina). https://drive.usercontent.google.com/download?id=1su1aht3HdKle8KhFdh8Hgis8iVdCS0Av&export=download&authuser=0.
 
 Step 2.
 
@@ -19,11 +19,11 @@ then download Balena Etcher. especially this version because on other versions, 
 
 Step 4.
 
-then open balena etcher setup, install it, then flash the .raw image in the folder i told you to extract earlier, to your USB drive, DO NOT DO IT ON YOUR SYSTEM DRIVE!!
+then open balena etcher setup, install it, then flash the .raw image in the folder i told you to extract earlier, to your USB drive, **DO NOT DO IT ON YOUR SYSTEM DRIVE!!**
 
 then unplug the USB drive, and replug the USB drive!
 
-then done! good luck hackintoshing!
+then done! Good luck Hackintoshing!
 
 If you don't have a problematic drive like the PM981a, that i had previously, you dont need Offline Installers, but if your internet is slow or your card is unsupported, then you can use it..
 
